@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Employee Management System",
+    "imageSrc": "projects/emps.png",
+    "description": "EMS is a web-based application which manages the employee's information.",
+    "skills": ["React","MySQL","SpringBoot"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/monikajpv/Employee-Management-System"
+  },
+  {
+    "title": "Online MCQ Examination System",
+    "imageSrc": "projects/mcq.png",
+    "description": "Developed automated software to manage & evaluate students record for exam & assignments",
+    "skills": ["HTML", "CSS", "PHP", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/monikajpv/Online-MCQ-Examination-System"
+  },
+  {
+    "title": "Quiz Application",
+    "imageSrc": "projects/quiz.png",
+    "description": "Design and developed high-quality code for the quiz application using React where user can give the different quiz ",
+    "skills": ["HTML", "CSS", "React","JSON"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/monikajpv/Bank-Loan-Approval-Prediction-System"
+  }
+]

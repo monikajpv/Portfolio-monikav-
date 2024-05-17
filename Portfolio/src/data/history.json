@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Java Fullstack intern",
+    "organisation": "ExcelR",
+    "startDate": "Sept, 2023",
+    "endDate": "May, 2024",
+    "experiences": ["Worked on Project Employee Management System", "Gained skills on FE and BE technologies"],
+    "imageSrc": "history/exc.jpg"
+  },
+  {
+    "role": "Web Developer Intern",
+    "organisation": "Esenceweb It training & Services",
+    "startDate": "May, 2019",
+    "endDate": "July, 2019",
+    "experiences": ["Worked on Project School Management System", "Designed the frontend part"],
+    "imageSrc": "history/es.jpg"
+  }
+]
