@@ -4,6 +4,7 @@
   --color-primary: #545397;
 
   /* --color-primary: #576cbc; */
+  -webkit-background-clip: text;
 
   
   --color-secondary: #4f2070;
